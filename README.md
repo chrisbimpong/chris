@@ -14,4 +14,4 @@ Item 1   | Item2    | Item 3
 
 ![Image](http://apluselearning.com/images/Slider02.png)
 
-:bowtie: :blush: :tophat:
+:bowtie: :blush: :tophat: 
